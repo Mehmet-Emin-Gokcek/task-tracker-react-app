@@ -1,6 +1,6 @@
 # TASK TRACKER REACT APP
 
-Check out the Live Demo below. 
+Check out the Live Demo here:
 https://mehmetgokcek.github.io/task-tracker-react-app/
 
 
